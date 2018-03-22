@@ -1,0 +1,10 @@
+C:\Users\lhd\Documents\JASS\TextToSpeechExample\TextToSpeechExample\TextToSpeechExample\bin\Debug\TextToSpeechExample.exe.config
+C:\Users\lhd\Documents\JASS\TextToSpeechExample\TextToSpeechExample\TextToSpeechExample\bin\Debug\TextToSpeechExample.exe
+C:\Users\lhd\Documents\JASS\TextToSpeechExample\TextToSpeechExample\TextToSpeechExample\bin\Debug\TextToSpeechExample.pdb
+C:\Users\lhd\Documents\JASS\TextToSpeechExample\TextToSpeechExample\TextToSpeechExample\obj\Debug\TextToSpeechExample.csprojResolveAssemblyReference.cache
+C:\Users\lhd\Documents\JASS\TextToSpeechExample\TextToSpeechExample\TextToSpeechExample\obj\Debug\TextToSpeechExample.TextToSpeechExampleForm.resources
+C:\Users\lhd\Documents\JASS\TextToSpeechExample\TextToSpeechExample\TextToSpeechExample\obj\Debug\TextToSpeechExample.Properties.Resources.resources
+C:\Users\lhd\Documents\JASS\TextToSpeechExample\TextToSpeechExample\TextToSpeechExample\obj\Debug\TextToSpeechExample.csproj.GenerateResource.Cache
+C:\Users\lhd\Documents\JASS\TextToSpeechExample\TextToSpeechExample\TextToSpeechExample\obj\Debug\TextToSpeechExample.csproj.CoreCompileInputs.cache
+C:\Users\lhd\Documents\JASS\TextToSpeechExample\TextToSpeechExample\TextToSpeechExample\obj\Debug\TextToSpeechExample.exe
+C:\Users\lhd\Documents\JASS\TextToSpeechExample\TextToSpeechExample\TextToSpeechExample\obj\Debug\TextToSpeechExample.pdb
